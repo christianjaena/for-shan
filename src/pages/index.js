@@ -184,7 +184,7 @@ export default function Home() {
                 >
                     <fog attach="fog" args={["#202025", 0, 80]} />
                     <Cloud count={10} radius={35} />
-                    <TrackballControls />
+                    <TrackballControls rotateSpeed={0.15} zoomSpeed={0.5} />
                 </Canvas>
             )}
         </>
