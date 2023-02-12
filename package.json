@@ -10,10 +10,16 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@react-three/drei": "^9.56.21",
+    "@react-three/fiber": "^8.11.0",
+    "@types/three": "^0.149.0",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
+    "file-loader": "^6.2.0",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "three": "^0.149.0",
+    "url-loader": "^4.1.1"
   }
 }
